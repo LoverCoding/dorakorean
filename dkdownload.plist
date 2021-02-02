@@ -11,22 +11,6 @@
                     <key>url</key>
                     <string>http://39.100.252.164:8080/swf/dorakorean_ios.ipa</string>
                 </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>full-size-image</string>
-                    <key>needs-shine</key>
-                    <true/>
-                    <key>url</key>
-                    <string></string>
-                </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>display-image</string>
-                    <key>needs-shine</key>
-                    <true/>
-                    <key>url</key>
-                    <string></string>
-                </dict>
             </array>
             <key>metadata</key>
             <dict>
